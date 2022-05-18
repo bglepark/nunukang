@@ -1,0 +1,7 @@
+path: /content/yolov5/fish_sample
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+names: ['Olive flounder', 'Korea rockfish', 'Red seabream', 'Black porgy', 'Rock bream']
